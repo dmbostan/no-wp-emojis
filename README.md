@@ -1,4 +1,4 @@
-# NO WP Emojis
+# No WP Emojis
 
 This is a pretty basic plugin to remove emoji related code in:
 
